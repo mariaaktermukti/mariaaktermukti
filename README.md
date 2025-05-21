@@ -23,10 +23,10 @@
 <h2>👨‍💻 Competitive Programming Profiles</h2>
 <ul>
   <li><a href="https://codeforces.com/profile/maria_akter_mukti" target="_blank">Codeforces - Maria Akter Mukti</a></li>
+  <li><a href="https://www.codechef.com/users/mukti_13" target="_blank">CodeChef - Maria Mukti</a></li>
   <li><a href="https://leetcode.com/u/mariamukti051/" target="_blank">LeetCode - Maria Mukti</a></li>
   <li><a href="https://www.hackerrank.com/profile/mariamukti051" target="_blank">HackerRank - Maria Mukti</a></li>
   <li><a href="https://www.naukri.com/code360/profile/f5cd9138-a473-4602-b6cb-4911bea799fb" target="_blank">Coding Ninjas (Code360) - Maria Mukti</a></li>
-  <li><a href="https://www.codechef.com/users/mukti_13" target="_blank">CodeChef - Maria Mukti</a></li>
   <li><a href="https://atcoder.jp/users/Maria_Mukti" target="_blank">AtCoder - Maria Mukti</a></li>
 </ul>
 
