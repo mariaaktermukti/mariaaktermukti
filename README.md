@@ -32,23 +32,57 @@
 </ul>
 
 ### 
-<h3 align="left">👩‍💻I code with</h3>
-
-###
-
+<h3 align="left">👩‍💻 I code with</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    alt="C++"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    alt="C"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    alt="Java"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    alt="HTML5"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    alt="CSS3"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    alt="Python"
+    width="30"
+    height="30"
+    style="object-fit: contain;"
+  />
 </div>
+
 
 ###
 
