@@ -2,10 +2,9 @@
   <img height="200" src="https://i.ibb.co.com/khFmxDx/Purple-and-Yellow-Elegant-Personal-Profile-with-Photo-Profile-Linkedin-Background-Photo-2.png"  />
 </div>
 
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaaktermukti&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&title_color=ffffff&icon_color=ff79c6&text_color=ffffff" alt="GitHub Stats" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 ###
