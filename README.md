@@ -1,7 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.ibb.co.com/khFmxDx/Purple-and-Yellow-Elegant-Personal-Profile-with-Photo-Profile-Linkedin-Background-Photo-2.png"  />
 </div>
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariaaktermukti&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&title_color=ffffff&icon_color=ff79c6&text_color=ffffff" alt="GitHub Stats" />
   <br>
