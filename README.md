@@ -7,6 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
+<!-- Profile Views + Code Time -->
+<div align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
+
+  <!-- Spacer -->
+  <img width="10" />
+
+  <!-- Code Time -->
+  <img src="https://img.shields.io/badge/Code%20Time-156%20hrs%2018%20mins-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Time" />
+</div>
+
+
 ###
 
 <h1 align="left">Maria Akter Mukti</h1>
