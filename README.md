@@ -3,7 +3,7 @@
 </div>
 
 <!-- Profile Views + Code Time -->
-<div align="center">
+<div align="center" style="margin-top: 10px;">
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
@@ -12,13 +12,14 @@
   <img width="10" />
 
   <!-- Code Time -->
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://img.shields.io/badge/Code%20Time-156%20hrs%2018%20mins-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Time" />
+  <div style="display: inline-block; text-align: center; background: linear-gradient(135deg, #7e3ff2, #a86ff5); padding: 10px 18px; border-radius: 10px; box-shadow: 0px 0px 12px rgba(150, 80, 255, 0.7);">
+    <img src="https://img.shields.io/badge/Code%20Time-1095%20hrs%2030%20mins-white?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=7e3ff2&color=7e3ff2" alt="Code Time" />
     <br />
-    <span style="color:white; font-size:14px;">Since September 2023</span>
+    <span style="color:#f3eaff; font-size:13px; font-weight:500;">✨ Since September 2023 ✨</span>
   </div>
 
 </div>
+
 
 
 ###
