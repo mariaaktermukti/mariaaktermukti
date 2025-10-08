@@ -2,13 +2,9 @@
   <img height="200" src="https://i.ibb.co.com/khFmxDx/Purple-and-Yellow-Elegant-Personal-Profile-with-Photo-Profile-Linkedin-Background-Photo-2.png"  />
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
-
 <!-- Profile Views + Code Time -->
 <div align="center">
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
 
@@ -16,7 +12,12 @@
   <img width="10" />
 
   <!-- Code Time -->
-  <img src="https://img.shields.io/badge/Code%20Time-156%20hrs%2018%20mins-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Time" />
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://img.shields.io/badge/Code%20Time-156%20hrs%2018%20mins-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Time" />
+    <br />
+    <span style="color:white; font-size:14px;">Since September 2023</span>
+  </div>
+
 </div>
 
 
