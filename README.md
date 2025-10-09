@@ -2,12 +2,13 @@
   <img height="200" src="https://i.ibb.co.com/khFmxDx/Purple-and-Yellow-Elegant-Personal-Profile-with-Photo-Profile-Linkedin-Background-Photo-2.png"  />
 </div>
 
-<!-- Profile Views + Code Time -->
+<!-- Profile Views + Coding Since -->
 <div align="center" style="margin-top: 10px;">
-
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" /
-
+  <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Coding%20Since-2024-blue?style=for-the-badge" alt="Coding Since 2024" />
+</div>
 
 ###
 
