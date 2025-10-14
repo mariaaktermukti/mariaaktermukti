@@ -7,7 +7,7 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
   <br><br>
-  <img src="https://img.shields.io/badge/Coding%20Since-2024-blue?style=for-the-badge" alt="Coding Since 2024" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2024-blue?style=for-the-badge" alt="Coding Since 2023" />
 </div>
 
 ###
