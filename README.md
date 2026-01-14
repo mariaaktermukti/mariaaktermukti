@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">👉Actively solving problems on Codeforces, CodeChef, and HackerRank to sharpen my competitive programming skills.<br><br>👉Maintaining and organizing repositories like C++ and Java on GitHub.<br><br>👉Exploring advanced concepts in C++ and Python while building foundational projects in C, Java, HTML, and CSS.<br><br>👉Enrolled in an AI/ML course (Phitron) to strengthen programming fundamentals.</h4>
+<h4 align="left">👉Actively solving problems on Codeforces, CodeChef, and HackerRank to sharpen my competitive programming skills.<br><br>👉Maintaining and organizing repositories like C++ and Java on GitHub.<br><br>👉Exploring advanced concepts in C++ and Python while building foundational projects in C, Java, HTML, and CSS.<br><br>👉Enrolled in an AI/ML course (Phitron) to strengthen fundamentals in artificial intelligence and machine learning.</h4>
 
 ###
 
