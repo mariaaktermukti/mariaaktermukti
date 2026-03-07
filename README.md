@@ -69,7 +69,7 @@
 ###
 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaktermukti&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaktermukti&layout=compact&langs_count=8&theme=tokyonight)
 
 
 ###
