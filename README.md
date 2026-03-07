@@ -67,12 +67,6 @@
 </div>
 
 ###
-📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaktermukti&layout=compact&langs_count=8&theme=tokyonight)
-
-
-###
 
 <div align="center">
 </div>
