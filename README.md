@@ -101,4 +101,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaaktermukti&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruf-hossain74&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf-hossain74&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf-hossain74&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf-hossain74&theme=github_dark&utcOffset=6" />
+</p>
+
 ###
