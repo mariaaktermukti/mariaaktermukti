@@ -16,14 +16,6 @@
 
 ###
 
-<h4 align="left">🎓 CSE Student | Competitive Programmer | Problem Solver<br><br>💻 Passionate about coding and solving challenging problems on platforms like Codeforces, CodeChef, and HackerRank.<br>🚀 Skilled in C, Java, HTML, and CSS, and currently learning C++ and Python to expand my tech stack.<br>🔗 Explore my repositories to see my journey in competitive programming and software development!<br><br>🌱 "Always striving for academic and technical excellence while building a future in AI, ML, and software engineering."</h4>
-
-###
-
-<h3 align="left">💻 Recent Activities</h3>
-
-###
-
 <h3 align="left">💻 Recent Activities</h3>
 
 <h4 align="left">
