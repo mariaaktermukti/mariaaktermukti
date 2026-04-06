@@ -24,7 +24,19 @@
 
 ###
 
-<h4 align="left">👉Actively solving problems on Codeforces, CodeChef, and HackerRank to sharpen my competitive programming skills.<br><br>👉Maintaining and organizing repositories like C++ and Java on GitHub.<br><br>👉Exploring advanced concepts in C++ and Python while building foundational projects in C, Java, HTML, and CSS.<br><br>👉Enrolled in an AI/ML course (Phitron) to strengthen fundamentals in artificial intelligence and machine learning.</h4>
+<h3 align="left">💻 Recent Activities</h3>
+
+<h4 align="left">
+👉 Actively solving problems on Codeforces, CodeChef, and HackerRank to strengthen my problem-solving and algorithmic thinking.<br><br>
+
+👉 Maintaining and organizing GitHub repositories (C++, Java, Python) focused on DSA practice and competitive programming solutions.<br><br>
+
+👉 Exploring core concepts of Artificial Intelligence, Machine Learning, and Deep Learning through coursework and hands-on learning.<br><br>
+
+👉 Currently engaged in a research/thesis project in the Healthcare domain, aiming to apply AI/ML techniques to solve real-world health-related problems.<br><br>
+
+👉 Building strong fundamentals in programming (C, C++, Java, Python) to support academic projects and AI/ML research work.
+</h4>
 
 ###
 
