@@ -49,15 +49,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
 </p>
 
----
-
 ## Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
----
 
 ## Backend Development
 
@@ -65,23 +61,17 @@
   <img src="https://skillicons.dev/icons?i=php,django" />
 </p>
 
----
-
 ## Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
-
 ## AI / Machine Learning
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,pytorch,tensorflow,huggingface,opencv" />
 </p>
-
----
 
 ## Tools & Platforms
 
@@ -90,8 +80,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab" />
 </p>
 
-###
-
+### Connect With Me
 <div align="left">
   <a href="https://www.linkedin.com/in/maria-mukti-1a6840337">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
