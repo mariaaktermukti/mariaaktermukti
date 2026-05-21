@@ -44,40 +44,16 @@
 </ul>
 
 ### 
-<h3 align="left">👩‍💻 I code with</h3>
+## Languages and Tools:
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,mysql,pytorch,tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,huggingface,opencv" />
+</p>
 ###
 
 <div align="center">
 </div>
-
-###
 
 <h3 align="left">📲 Contact with me</h3>
 
