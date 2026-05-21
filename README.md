@@ -43,19 +43,52 @@
   <li><a href="https://atcoder.jp/users/Maria_Mukti" target="_blank">AtCoder - Maria Mukti</a></li>
 </ul>
 
-### 
-## Languages and Tools:
+## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,mysql,pytorch,tensorflow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,huggingface,opencv" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
 </p>
-###
 
-<div align="center">
-</div>
+---
 
-<h3 align="left">📲 Contact with me</h3>
+## Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+## Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,django" />
+</p>
+
+---
+
+## Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,pytorch,tensorflow,huggingface,opencv" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab" />
+</p>
 
 ###
 
