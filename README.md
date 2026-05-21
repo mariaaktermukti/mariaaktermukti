@@ -70,7 +70,13 @@
 ## AI / Machine Learning
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,pytorch,tensorflow,huggingface,opencv" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,pytorch,tensorflow,huggingface,opencv" />
+</p>
+
+## Design & Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ## Tools & Platforms
