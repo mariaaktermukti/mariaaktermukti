@@ -19,21 +19,15 @@
 <h3 align="left">💻 Currently Working On</h3>
 
 <h4 align="left"> 👉 <b>Exploring Generative AI and Large Language Models (LLMs)</b>, with hands-on learning in LangChain, prompt engineering, tokenization, and LLM application development.<br><br>
-
 👉 <b>Building AI/ML projects</b> using Python, PyTorch, TensorFlow, Hugging Face, and other modern AI tools.<br><br>
-
 👉 <b>Researching LLM Safety and Security</b>, particularly <b>Prompt Injection, Jailbreak Attacks, and Defense Mechanisms</b>.<br><br>
-
 👉 <b>Working on research related to Bengali/Bangla LLMs</b>, focusing on data quality, instruction tuning, and evaluation.<br><br>
-
 👉 <b>Developing practical AI-powered applications</b> and experimenting with AI agents, RAG, and LLM-based systems.
-
 </h4>
 
 <h3 align="left">🧠 Problem Solving</h3>
 
 <h4 align="left"> 👉 Actively solving problems on <b>Codeforces, CodeChef, LeetCode, and HackerRank</b> to strengthen problem-solving and algorithmic thinking.<br><br>
-
 👉 Maintaining and organizing GitHub repositories for <b>DSA, Competitive Programming, AI/ML, and GenAI projects</b>.
 
 </h4>
