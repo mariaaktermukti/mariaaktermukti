@@ -37,7 +37,7 @@
 👉 Maintaining and organizing GitHub repositories for <b>DSA, Competitive Programming, AI/ML, and GenAI projects</b>.
 
 </h4>
-###
+
 
 <h2>👨‍💻 Competitive Programming Profiles</h2>
 <ul>
