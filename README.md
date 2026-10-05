@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/khFmxDx/Purple-and-Yellow-Elegant-Personal-Profile-with-Photo-Profile-Linkedin-Background-Photo-2.png"  />
-</div>
-
 <!-- Profile Views + Coding Since -->
 <div align="center" style="margin-top: 10px;">
   <!-- Profile Views -->
