@@ -28,15 +28,14 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 - **Bengali LLM Research:** Evaluating data-quality filtering strategies for Bengali instruction tuning and model evaluation.
 - **Agentic AI:** Experimenting with AI Agents, Tool Calling, and LLM-based Workflows.
 
-## Competitive Programming Profiles
+## Competitive Programming & Data Science Profiles
 
 - [Codeforces](https://codeforces.com/profile/maria_akter_mukti)
 - [CodeChef](https://www.codechef.com/users/mukti_13)
 - [LeetCode](https://leetcode.com/u/mariamukti051/)
 - [HackerRank](https://www.hackerrank.com/profile/mariamukti051)
 - [beecrowd](https://judge.beecrowd.com/en/profile/1101330)
-- [Code360 (Coding Ninjas)](https://www.naukri.com/code360/profile/f5cd9138-a473-4602-b6cb-4911bea799fb)
-- [AtCoder](https://atcoder.jp/users/Maria_Mukti)
+- [Kaggle](https://www.kaggle.com/mariaaktermukti)
 
 ---
 
