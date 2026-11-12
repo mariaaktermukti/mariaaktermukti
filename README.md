@@ -41,37 +41,36 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 ---
 
 ## Technical Skills
-
-## Technical Skills
-
-| Category | Technologies & Tools |
-|---|---|
-| **Programming Languages** | C, C++, Java, Python, PHP |
-| **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript |
-| **Backend Development** | Django, FastAPI, PHP |
-| **Database & Cloud** | MySQL, MongoDB, Supabase, Firebase |
-| **Machine Learning** | Scikit-learn, Feature Engineering, Model Training, Model Evaluation, Model Optimization |
-| **Data Processing & Analysis** | NumPy, Pandas, Matplotlib, Seaborn, Data Preprocessing, Exploratory Data Analysis (EDA) |
-| **Deep Learning** | PyTorch, TensorFlow, Neural Networks, CNN, RNN, LSTM, GRU |
-| **NLP & LLMs** | Hugging Face, LangChain, RAG, Prompt Engineering, Tokenization, Vector Embeddings |
-| **Agentic AI & Automation** | AI Agents, Tool Calling, LLM-based Workflows, Workflow Automation |
-| **LLM Security** | Prompt Injection, Jailbreak Attacks, LLM Security, Defense Mechanisms |
-| **Design & Visualization** | Figma |
-| **Development Tools** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
-
-### Design & Visualization
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
-</p>
-
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Development</th>
+    <th>Databases</th>
+    <th>Machine Learning & Research</th>
+    <th>Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,django,fastapi&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+      <br/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,huggingface&perline=4" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma&perline=3" />
+      <br/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## Connect With Me
