@@ -157,8 +157,8 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 | [SQL (Basic)](https://www.hackerrank.com/certificates/8a54c3c232a8) | HackerRank | Mar 2026 | `8A54C3C232A8` |
 | [Python (Basic)](https://www.hackerrank.com/certificates/4ec8b6c6de5d) | HackerRank | Mar 2026 | `4ec8b6c6de5d` |
 | [Introduction to Data Science](https://alison.com/verify/1658-49736267) | Alison | Jul 2025 | `1658-49736267` |
-| [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/b8317acea3e5) | HackerRank Campus Club, AUFS | Jun 2025 | `b8317acea3e5` |
-| [Problem Solving (Basic)](https://www.hackerrank.com/certificates/2bdc4b6ff63c) | HackerRank Campus Club, AUFS | Jan 2025 | `2BDC4B6FF63C` |
+| [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/b8317acea3e5) | HackerRank | Jun 2025 | `b8317acea3e5` |
+| [Problem Solving (Basic)](https://www.hackerrank.com/certificates/2bdc4b6ff63c) | HackerRank | Jan 2025 | `2BDC4B6FF63C` |
 
 
 ## Connect With Me
