@@ -40,38 +40,113 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 
 ---
 
+
 ## Technical Skills
+
 <table align="center">
   <tr>
-    <th>Languages</th>
-    <th>Development</th>
-    <th>Databases</th>
-    <th>Machine Learning & Research</th>
-    <th>Tools & Platforms</th>
+    <th>Category</th>
+    <th>Technologies & Tools</th>
   </tr>
+
   <tr>
+    <td align="center"><b>Programming Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php&perline=3" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php" />
+      <br/>C, C++, Java, Python, PHP
     </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Frontend Development</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,django,fastapi&perline=3" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+      <br/>HTML5, CSS3, JavaScript, TypeScript
     </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Backend Development</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,php" />
+      <br/>Django, FastAPI, PHP, REST API Development
     </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Database & Cloud</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
-      <br/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,huggingface&perline=4" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" />
+      <br/>MySQL, MongoDB, Supabase, Firebase
     </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Machine Learning</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma&perline=3" />
-      <br/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" />
+      <br/>Scikit-learn, Feature Engineering, Model Training, Model Evaluation, Model Optimization
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Data Processing & Analysis</b></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" />
+      <br/>NumPy, Pandas, Matplotlib, Data Preprocessing, Data Analysis, EDA
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Deep Learning</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+      <br/>PyTorch, TensorFlow, Neural Networks, CNN, RNN, LSTM, GRU
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>NLP & Large Language Models</b></td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/huggingface" width="42" height="42" />
+      <br/>NLP, LLMs, Hugging Face, LangChain, RAG, Prompt Engineering, Tokenization, Vector Embeddings
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Agentic AI & Automation</b></td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/langchain" width="42" height="42" />
+      <br/>AI Agents, Tool Calling, LLM-based Workflows, Workflow Automation
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>LLM Security & Research</b></td>
+    <td align="center">
+      Prompt Injection, Jailbreak Attacks, LLM Security, Defense Mechanisms, Bengali LLM Research, Instruction Tuning
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Design & Visualization</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" />
+      <br/>Figma, UI/UX Design, Prototyping
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Tools & Platforms</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,colab" />
+      <br/>Git, GitHub, VS Code, Jupyter Notebook, Google Colab
     </td>
   </tr>
 </table>
----
+
 
 ## Connect With Me
 
