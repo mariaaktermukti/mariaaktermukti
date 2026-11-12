@@ -28,14 +28,6 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 - **Bengali LLM Research:** Evaluating data-quality filtering strategies for Bengali instruction tuning and model evaluation.
 - **Agentic AI:** Experimenting with AI Agents, Tool Calling, and LLM-based Workflows.
 
-## Problem Solving & Competitive Programming
-
-Actively solving programming problems to strengthen algorithmic thinking, problem-solving skills, and coding efficiency.
-
-- Practicing Data Structures and Algorithms.
-- Participating in Competitive Programming.
-- Maintaining repositories for DSA, AI/ML, and GenAI projects.
-
 ## Competitive Programming Profiles
 
 - [Codeforces](https://codeforces.com/profile/maria_akter_mukti)
@@ -50,66 +42,22 @@ Actively solving programming problems to strengthen algorithmic thinking, proble
 
 ## Technical Skills
 
-### Programming Languages
+## Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,django,fastapi" />
-</p>
-
-### Database & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-**Machine Learning**
-- Scikit-learn, Feature Engineering, Model Training
-- Model Evaluation, Model Optimization
-
-**Data Processing & Analysis**
-- NumPy, Pandas, Matplotlib
-- Data Preprocessing, Data Analysis
-
-**Deep Learning**
-- PyTorch, TensorFlow
-- Neural Networks, CNN, RNN, LSTM, GRU
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
-</p>
-
-**NLP & Large Language Models**
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Hugging Face, LangChain
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering, Tokenization
-- Vector Embeddings
-
-**AI Automation & Agentic AI**
-- AI Agents, Tool Calling
-- LLM-based Workflows
-- Workflow Automation
-
-**Core Concepts**
-- Feature Engineering
-- Model Training & Evaluation
-- Model Optimization
-- Vector Embeddings
+| Category | Technologies & Tools |
+|---|---|
+| **Programming Languages** | C, C++, Java, Python, PHP |
+| **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript |
+| **Backend Development** | Django, FastAPI, PHP |
+| **Database & Cloud** | MySQL, MongoDB, Supabase, Firebase |
+| **Machine Learning** | Scikit-learn, Feature Engineering, Model Training, Model Evaluation, Model Optimization |
+| **Data Processing & Analysis** | NumPy, Pandas, Matplotlib, Seaborn, Data Preprocessing, Exploratory Data Analysis (EDA) |
+| **Deep Learning** | PyTorch, TensorFlow, Neural Networks, CNN, RNN, LSTM, GRU |
+| **NLP & LLMs** | Hugging Face, LangChain, RAG, Prompt Engineering, Tokenization, Vector Embeddings |
+| **Agentic AI & Automation** | AI Agents, Tool Calling, LLM-based Workflows, Workflow Automation |
+| **LLM Security** | Prompt Injection, Jailbreak Attacks, LLM Security, Defense Mechanisms |
+| **Design & Visualization** | Figma |
+| **Development Tools** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 
 ### Design & Visualization
 
