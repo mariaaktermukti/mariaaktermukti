@@ -151,14 +151,15 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 | Certification | Issuing Organization | Issued | Credential ID |
 |---|---|---|---|
 | [Securing Large Language Models (LLMs)](https://alison.com/verify/91d58779f6) | Alison | Oct 2026 | `7807-59533778` |
-| [Personal Branding in AI Era](CERTIFICATE_URL) | Grameenphone Academy | May 2026 | — |
-| [CSS (Basic)](CERTIFICATE_URL) | HackerRank | Apr 2026 | `81050cf0749c` |
-| [Run Your First Project with PHP](CERTIFICATE_URL) | Ostad | Jan 2026 | `C40346` |
-| [SQL (Basic)](CERTIFICATE_URL) | HackerRank | Mar 2026 | `8A54C3C232A8` |
-| [Python (Basic)](CERTIFICATE_URL) | HackerRank | Mar 2026 | `4ec8b6c6de5d` |
-| [Introduction to Data Science](CERTIFICATE_URL) | Alison | Jul 2025 | `1658-49736267` |
-| [Problem Solving (Intermediate)](CERTIFICATE_URL) | HackerRank Campus Club, AUFS | Jun 2025 | `b8317acea3e5` |
-| [Problem Solving (Basic)](CERTIFICATE_URL) | HackerRank Campus Club, AUFS | Jan 2025 | `2BDC4B6FF63C` |
+| Personal Branding in AI Era | Grameenphone Academy | May 2026 | — |
+| [CSS (Basic)](https://www.hackerrank.com/certificates/81050cf0749c) | HackerRank | Apr 2026 | `81050cf0749c` |
+| [Run Your First Project with PHP](https://ostad.app/share/certificate/c40346-maria-akter-mukti) | Ostad | Jan 2026 | `C40346` |
+| [SQL (Basic)](https://www.hackerrank.com/certificates/8a54c3c232a8) | HackerRank | Mar 2026 | `8A54C3C232A8` |
+| [Python (Basic)](https://www.hackerrank.com/certificates/4ec8b6c6de5d) | HackerRank | Mar 2026 | `4ec8b6c6de5d` |
+| [Introduction to Data Science](https://alison.com/verify/1658-49736267) | Alison | Jul 2025 | `1658-49736267` |
+| [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/b8317acea3e5) | HackerRank Campus Club, AUFS | Jun 2025 | `b8317acea3e5` |
+| [Problem Solving (Basic)](https://www.hackerrank.com/certificates/2bdc4b6ff63c) | HackerRank Campus Club, AUFS | Jan 2025 | `2BDC4B6FF63C` |
+
 
 ## Connect With Me
 
