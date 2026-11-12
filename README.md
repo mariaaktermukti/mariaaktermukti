@@ -42,8 +42,11 @@
 
 ## Languages
 
+
+## Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php" />
 </p>
 
 ## Frontend Development
@@ -58,10 +61,10 @@
   <img src="https://skillicons.dev/icons?i=php,django,fastapi" />
 </p>
 
-## Database
+## Database & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
 </p>
 
 ## AI / Machine Learning
@@ -79,8 +82,8 @@
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,colab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
 </p>
 
 ### Connect With Me
