@@ -64,14 +64,15 @@
 ## Database & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
 ## AI / Machine Learning
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,pytorch,tensorflow,huggingface,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=5" />
 </p>
+
 
 ## Design & Visualization
 
