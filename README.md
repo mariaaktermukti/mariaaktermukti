@@ -165,24 +165,6 @@ My interests include Generative AI, Large Language Models (LLMs), LLM Security, 
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaaktermukti&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaktermukti&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mariaaktermukti&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
 ## GitHub Profile Summary
 
 <div align="center">
