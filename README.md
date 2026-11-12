@@ -1,124 +1,185 @@
-<!-- Profile Views + Coding Since -->
-<div align="center" style="margin-top: 10px;">
-  <!-- Profile Views -->
+# Hi, I'm Maria Akter Mukti
+
+<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=mariaaktermukti&style=for-the-badge&color=blue" alt="Profile Views" />
-  <br><br>
   <img src="https://img.shields.io/badge/Coding%20Since-2023-blue?style=for-the-badge" alt="Coding Since 2023" />
+
 </div>
 
-###
+## About Me
 
-<h1 align="left">Maria Akter Mukti</h1>
+I'm a Computer Science and Engineering undergraduate at **United International University (UIU), Bangladesh**, passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
 
-###
+My interests include Generative AI, Large Language Models (LLMs), LLM Security, and research on low-resource Bengali language models.
 
-<h3 align="left">💻 Currently Working On</h3>
+- Exploring Generative AI and Large Language Models.
+- Building AI/ML applications using Python and modern AI frameworks.
+- Researching LLM Security, Prompt Injection, Jailbreak Attacks, and Defense Mechanisms.
+- Working on Bengali LLM research, focusing on instruction tuning, data quality, and model evaluation.
+- Exploring AI Agents, RAG, LangChain, and LLM-based automation.
+- Actively practicing Data Structures, Algorithms, and Competitive Programming.
 
-<h4 align="left"> 👉 <b>Exploring Generative AI and Large Language Models (LLMs)</b>, with hands-on learning in LangChain, prompt engineering, tokenization, and LLM application development.<br><br>
-👉 <b>Building AI/ML projects</b> using Python, PyTorch, TensorFlow, Hugging Face, and other modern AI tools.<br><br>
-👉 <b>Researching LLM Safety and Security</b>, particularly <b>Prompt Injection, Jailbreak Attacks, and Defense Mechanisms</b>.<br><br>
-👉 <b>Working on research related to Bengali/Bangla LLMs</b>, focusing on data quality, instruction tuning, and evaluation.<br><br>
-👉 <b>Developing practical AI-powered applications</b> and experimenting with AI agents, RAG, and LLM-based systems.
-</h4>
+## Currently Working On
 
-<h3 align="left">🧠 Problem Solving</h3>
+- **Generative AI & LLMs:** Exploring LangChain, Prompt Engineering, Tokenization, RAG, and LLM Application Development.
+- **AI/ML Projects:** Building practical applications using Python, PyTorch, TensorFlow, Scikit-learn, and Hugging Face.
+- **LLM Security Research:** Investigating Prompt Injection, Jailbreak Attacks, and Defense Mechanisms.
+- **Bengali LLM Research:** Evaluating data-quality filtering strategies for Bengali instruction tuning and model evaluation.
+- **Agentic AI:** Experimenting with AI Agents, Tool Calling, and LLM-based Workflows.
 
-<h4 align="left"> 👉 Actively solving problems on <b>Codeforces, CodeChef, LeetCode, and HackerRank</b> to strengthen problem-solving and algorithmic thinking.<br><br>
-👉 Maintaining and organizing GitHub repositories for <b>DSA, Competitive Programming, AI/ML, and GenAI projects</b>.
+## Problem Solving & Competitive Programming
 
-</h4>
+Actively solving programming problems to strengthen algorithmic thinking, problem-solving skills, and coding efficiency.
 
+- Practicing Data Structures and Algorithms.
+- Participating in Competitive Programming.
+- Maintaining repositories for DSA, AI/ML, and GenAI projects.
 
-<h2>👨‍💻 Competitive Programming Profiles</h2>
-<ul>
-  <li><a href="https://codeforces.com/profile/maria_akter_mukti" target="_blank">Codeforces - Maria Akter Mukti</a></li>
-  <li><a href="https://www.codechef.com/users/mukti_13" target="_blank">CodeChef - Maria Mukti</a></li>
-  <li><a href="https://leetcode.com/u/mariamukti051/" target="_blank">LeetCode - Maria Mukti</a></li>
-  <li><a href="https://www.hackerrank.com/profile/mariamukti051" target="_blank">HackerRank - Maria Mukti</a></li>
-  <li><a href="https://judge.beecrowd.com/en/profile/1101330" target="_blank">beecrowd - Maria Mukti</a></li>
-  <li><a href="https://www.naukri.com/code360/profile/f5cd9138-a473-4602-b6cb-4911bea799fb" target="_blank">Coding Ninjas (Code360) - Maria Mukti</a></li>
-  <li><a href="https://atcoder.jp/users/Maria_Mukti" target="_blank">AtCoder - Maria Mukti</a></li>
-</ul>
+## Competitive Programming Profiles
 
-## Languages
+- [Codeforces](https://codeforces.com/profile/maria_akter_mukti)
+- [CodeChef](https://www.codechef.com/users/mukti_13)
+- [LeetCode](https://leetcode.com/u/mariamukti051/)
+- [HackerRank](https://www.hackerrank.com/profile/mariamukti051)
+- [beecrowd](https://judge.beecrowd.com/en/profile/1101330)
+- [Code360 (Coding Ninjas)](https://www.naukri.com/code360/profile/f5cd9138-a473-4602-b6cb-4911bea799fb)
+- [AtCoder](https://atcoder.jp/users/Maria_Mukti)
 
+---
 
-## Programming Languages
+## Technical Skills
+
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php" />
 </p>
 
-## Frontend Development
+### Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-## Backend Development
+### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,django,fastapi" />
 </p>
 
-## Database & Cloud
+### Database & Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
-## AI / Machine Learning
+### Artificial Intelligence & Machine Learning
+
+**Machine Learning**
+- Scikit-learn, Feature Engineering, Model Training
+- Model Evaluation, Model Optimization
+
+**Data Processing & Analysis**
+- NumPy, Pandas, Matplotlib
+- Data Preprocessing, Data Analysis
+
+**Deep Learning**
+- PyTorch, TensorFlow
+- Neural Networks, CNN, RNN, LSTM, GRU
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
 </p>
 
+**NLP & Large Language Models**
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Hugging Face, LangChain
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering, Tokenization
+- Vector Embeddings
 
-## Design & Visualization
+**AI Automation & Agentic AI**
+- AI Agents, Tool Calling
+- LLM-based Workflows
+- Workflow Automation
+
+**Core Concepts**
+- Feature Engineering
+- Model Training & Evaluation
+- Model Optimization
+- Vector Embeddings
+
+### Design & Visualization
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-## Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=colab" />
 </p>
 
-### Connect With Me
+---
+
+## Connect With Me
+
 <div align="left">
+
   <a href="https://www.linkedin.com/in/maria-mukti-1a6840337">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/channel/UCldy_h35SGUc02VjeI644Ig">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://twitter.com/MariaMukti30920">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+
 </div>
 
+---
 
-<h3 align="left">Github Stat</h3>
-
-###
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaaktermukti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaaktermukti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaaktermukti&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaaktermukti&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaktermukti&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaaktermukti&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaaktermukti&theme=github_dark" />
-</p>
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaaktermukti&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariaaktermukti&theme=github_dark&utcOffset=6" />
-</p>
+<div align="center">
 
-###
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mariaaktermukti&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+## GitHub Profile Summary
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaaktermukti&theme=github_dark" alt="Repositories per Language" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaaktermukti&theme=github_dark" alt="Most Commit Language" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariaaktermukti&theme=github_dark" alt="GitHub Statistics" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariaaktermukti&theme=github_dark&utcOffset=6" alt="Productive Time" />
+
+</div>
+
+---
+
+<div align="center">
+
+  **"Building, Learning, Researching, and Growing in AI."**
+
+</div>
